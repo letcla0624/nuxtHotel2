@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://nuxt-hotel.vercel.app/
+https://nuxt-hotel2.vercel.app/
 
 ## Introduction
 
